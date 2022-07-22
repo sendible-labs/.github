@@ -1,5 +1,5 @@
 
-(Sendible)(https://sendible.com] is a leading social media management platform built to give brands a voice on social media.
+[Sendible](https://sendible.com) is a leading social media management platform built to give brands a voice on social media.
 
 Sendible allows agencies to manage clients at scale and profiles across multiple platforms including Facebook, Instagram, and Twitter from one easy location.
 
